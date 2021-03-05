@@ -1,0 +1,13 @@
+public class numbers
+{
+       public static void main(string[] args)
+       {
+               int n1;
+               int n2;
+               int add;
+               system.out.println("enter the first number" +n1);
+               system.out.println("enter the second number" +n2);
+               add = n1 + n2;
+               system.out.println("addition of these numbers" +add);
+       }
+}       
